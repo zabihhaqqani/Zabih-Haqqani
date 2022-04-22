@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zabihhaqqani.netlify.app/](https://zabihhaqqani.netlify.app/)
 
-- 📝 I regularly write articles on [https://zabihhaqqani.netlify.app/blogs](https://zabihhaqqani.netlify.app/blogs)
+- 📝 I write articles on [https://zabihhaqqani.netlify.app/blogs](https://zabihhaqqani.netlify.app/blogs)
 
 - 📫 How to reach me email: **mdzabihhaqqani@gmail.com**
 
