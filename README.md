@@ -2,6 +2,7 @@
 <h3 align="center">A Passionate Web developer from India</h3>
 
 
+<p align="left"> <a href="https://twitter.com/Zabih01" target="blank"><img src="https://img.shields.io/twitter/follow/zabih01?style=for-the-badge" alt="zabihhaqqani" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
