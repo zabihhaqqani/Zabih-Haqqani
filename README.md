@@ -1,6 +1,7 @@
 ![Hi, 👋 Zabih here Web Developer from India (1)](https://user-images.githubusercontent.com/53895282/193913534-bddd1775-481e-4d6e-9f40-3a74336e9972.png)
 
-<p align="left"> <a href="https://twitter.com/Zabih01" target="blank"><img src="https://img.shields.io/twitter/follow/zabih01?style=for-the-badge" alt="zabihhaqqani" /></a> </p>
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=zabih" target="blank"><img src="https://img.shields.io/twitter/follow/zabih01?logo=twitter&style=for-the-badge" alt="pradumna_saraf"/></a></p>
+
 
 - 🌱 I’m currently learning **React**
 
