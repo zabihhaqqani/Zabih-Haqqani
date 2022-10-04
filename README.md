@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://zabihhaqqani.netlify.app/](https://zabihhaqqani.netlify.app/)
+- 👨‍💻 All my projects are available at [https://zabihhaqqani.netlify.app/](https://zabihhaqqani.netlify.app/)
 
 - 📝 I write blogs on [https://zabihhaqqani.netlify.app/blogs](https://zabihhaqqani.netlify.app/blogs)
 
@@ -31,7 +31,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
  </p>
  
- # 📊 GitHub Stats:
+
+ <h1 align="center">  # 📊 GitHub Stats:</h1>
 
 ![](https://github-readme-stats.vercel.app/api?username=zabihhaqqani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zabihhaqqani&theme=dark&hide_border=false)<br/>
