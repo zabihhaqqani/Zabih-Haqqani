@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zabih</h1>
-<h3 align="center">A Passionate Web developer from India</h3>
-
-
+![Hi, 👋 Zabih here Web Developer from India (1)](https://user-images.githubusercontent.com/53895282/193913534-bddd1775-481e-4d6e-9f40-3a74336e9972.png)
 
 <p align="left"> <a href="https://twitter.com/Zabih01" target="blank"><img src="https://img.shields.io/twitter/follow/zabih01?style=for-the-badge" alt="zabihhaqqani" /></a> </p>
 
@@ -16,14 +13,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <a href="https://twitter.com/zabih01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zabih01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zabih-haqqani-7ab187191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zabih-haqqani-7ab187191" height="30" width="40" /></a>
-<a href="https://discord.gg/zabih#1869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zabih#1869" height="30" width="40" /></a>
+<a href="https://discord.gg/zabih#1869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zabih#1869" height="40" width="45" /></a>
 </p>
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center"> Languages and Tools:</h1>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,14 +31,9 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
  </p>
  
+ # 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api?username=zabihhaqqani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zabihhaqqani&theme=dark&hide_border=false)<br/>
 
-
-
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zabihhaqqani&show_icons=true&locale=en&layout=compact" alt="zabihhaqqani" /></p>
-
-<p>&nbsp;<img align="left
-  " src="https://github-readme-stats.vercel.app/api?username=zabihhaqqani&show_icons=true&locale=en" alt="zabihhaqqani" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zabihhaqqani&" alt="zabihhaqqani" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zabihhaqqani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
